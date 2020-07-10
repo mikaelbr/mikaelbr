@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hei! 🐙
 
-<!--
-**mikaelbr/mikaelbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do podcasts, Open Source and working on local development community efforts.
 
-Here are some ideas to get you started:
+#### Blogs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [@mikaelbrevik](https://medium.com/@mikaelbrevik)
+
+#### Podcasts (norwegian)
+
+- [Kortslutning](https://kortslutning.simplecast.com/) – All about the life as developers. Oriented towards soft skills
+- [BartJS Podcast](https://bartjs.io) – Podcast on all things JavaScript
+
+#### Programming videos (norwegian)
+
+- [Kodesnutt](https://www.youtube.com/kodesnutt)
+- [OCaml series](https://ocaml.kodesnutt.io/)

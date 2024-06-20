@@ -4,7 +4,8 @@ I do podcasts, Open Source and working on local development community efforts.
 
 #### Blogs
 
-- [blog.mib.im](https://blog.mib.im)
+- Informal, mostly small posts: [mib.im](https://mib.im)
+- More business related: [blog.mib.im](https://blog.mib.im)
 
 #### Podcasts (norwegian)
 
